@@ -1,4 +1,4 @@
-# Individual Assignment
+# Linux and Git Project
 You have been hired as a new Data Engineer at CoreDataEngineers. The CoreDataEngineers infrastructure is based on the Linux Operating System. Your manager has tasked you with the responsibility of managing the company’s data infrastructure and version control tool.
 
 1. Your manager has assigned you the task of building a **Bash** script (use only bash scripting) that performs a simple ETL process:
