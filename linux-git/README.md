@@ -17,5 +17,5 @@ You have been hired as a new Data Engineer at CoreDataEngineers. The CoreDataEng
 
 4. All work done must be versioned using git.
 
-## SUBMISSION REQUIREMENTS
+## Submission Requirements
 A GitHub Repository containing the project submission and a well documented README.
