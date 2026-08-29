@@ -15,7 +15,7 @@ You have been hired as a new Data Engineer at CoreDataEngineers. The CoreDataEng
 
 3. Write a Bash script to move all CSV and JSON files from one folder to another folder named `json_and_CSV`. Use any JSON and CSV of your choice; the script should be able to work with one or more JSON and CSV files.
 
-4. All work done must be versioned-controlled using git.
+4. All work done must be versioned using git.
 
 ## SUBMISSION REQUIREMENTS
 A GitHub Repository containing the project submission and a well documented README.
